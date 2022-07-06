@@ -1,6 +1,6 @@
 # Homework 2 詳情
 ### KNN分類鳶尾花屬種
-1. 參考範例2，使用KNN分類鳶尾花屬種，並列出Evaluation Metrics
+1. 參考Example 2，使用KNN分類鳶尾花屬種，並列出Evaluation Metrics
 	> * Confusion matrix
 	> * Accuracy
 	> * Precision
