@@ -1,2 +1,2 @@
-# Homework 2 詳情
+## Homework 2 詳情
 
