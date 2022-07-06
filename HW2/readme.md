@@ -1,15 +1,16 @@
-## Homework 2 詳情
+# Homework 2 詳情
 ### KNN分類鳶尾花屬種
-1. 有序列表1 
-2. 有序列表2
-	1. 子有序列表1
-	2. 子有序列表2
-
-* 無序列表
-	* 子無序列表
-	* 子無序列表
-	
-		要在列表項目下加入段落，只要`+Tab`就好了。 
-		> * 無序列表可以使用星號
-		> - 或減號
-		> + 或加號
+1. 參考範例2，使用KNN分類鳶尾花屬種，並列出Evaluation Metrics
+	> * Confusion matrix
+	> * Accuracy
+	> * Precision
+	> * Recall
+	> * F1-score
+2. 使用5種不同的n_neighbors來比較結果
+3. 改用以下模型分類鳶尾花屬種
+	* SVM
+		* 使用不同的參數(修改kernel和C)
+	* Decision Trees
+		* 使用不同的參數(修改max_depth )
+	* Logistic regression
+		* 使用不同的參數(修改penalty和C)
